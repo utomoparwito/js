@@ -1,0 +1,38 @@
+{
+  "name": "Daily Info",
+  "short_name": "Daily Info",
+  "start_url": "https://www.dailyinfo.id/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#006b84",
+  "description": "Blog Info Tentang Technology, Lifestyle, Healthy, Traveling, Finance, Business, Education & Parenting Menuju Hidup Milenial Yang Lebih Bermanfaat.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-6wYlR_Cwu58/X3iAI3WszhI/AAAAAAAAL58/zVaLyRU3690gp2DFsOoYyaRNTw_oNhluQCLcBGAsYHQ/s48/Daily%2BInfo%2B01.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6wYlR_Cwu58/X3iAI3WszhI/AAAAAAAAL58/zVaLyRU3690gp2DFsOoYyaRNTw_oNhluQCLcBGAsYHQ/s72/Daily%2BInfo%2B01.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6wYlR_Cwu58/X3iAI3WszhI/AAAAAAAAL58/zVaLyRU3690gp2DFsOoYyaRNTw_oNhluQCLcBGAsYHQ/s96/Daily%2BInfo%2B01.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6wYlR_Cwu58/X3iAI3WszhI/AAAAAAAAL58/zVaLyRU3690gp2DFsOoYyaRNTw_oNhluQCLcBGAsYHQ/s144/Daily%2BInfo%2B01.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6wYlR_Cwu58/X3iAI3WszhI/AAAAAAAAL58/zVaLyRU3690gp2DFsOoYyaRNTw_oNhluQCLcBGAsYHQ/s168/Daily%2BInfo%2B01.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6wYlR_Cwu58/X3iAI3WszhI/AAAAAAAAL58/zVaLyRU3690gp2DFsOoYyaRNTw_oNhluQCLcBGAsYHQ/s192/Daily%2BInfo%2B01.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6wYlR_Cwu58/X3iAI3WszhI/AAAAAAAAL58/zVaLyRU3690gp2DFsOoYyaRNTw_oNhluQCLcBGAsYHQ/s512/Daily%2BInfo%2B01.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
